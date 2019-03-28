@@ -18,4 +18,5 @@ This is a typewriter-like effe
 
 是不是感觉 有点 东西 熟悉Rxjava的同学 肯定 一看就知道这是内置的定时操作符 很厉害的！<br\>
 
-这个原作者是 [YoloHuang]!(https://github.com/YoloHuang) 仿开眼的技术控件 我只是稍作修改了如有冒犯！请您见谅！我会第一时间与您取得联系并致以歉意！并删除！再次感谢 开源大神 这个项目 确实让我学到了很多东西1
+这个原作者是 [YoloHuang](https://github.com/YoloHuang) 仿开眼的技术控件 我只是稍作修改了如有冒犯！请您见谅！我会第一时间与您取得联系并致以歉意！并删除！再次感谢 开源大神 这个项目 确实让我学到了很多东西！
+[This link](http://example.net/) has no title attribute
